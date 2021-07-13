@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Hedrix i am currently learning how to build a website for the first time, i am new to programming and i am excited to learn computer languages, HTML, CSS AND JAVA 👋
 
 <!--
 **hendrix-mulota/hendrix-mulota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
